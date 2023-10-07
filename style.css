@@ -1,0 +1,16 @@
+#dev{
+    position: fixed;
+    width:1355px;
+    height: 50px;
+    margin-right: 300px;
+    margin-top:535px;
+    color: black;
+    background-color: white;
+    color: rgb(3, 3, 3);
+    text-align: center;
+}
+
+#box{
+    margin-left:500px;
+    margin-right:500px;
+}
